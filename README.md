@@ -7,7 +7,6 @@ This project implements an AI assistant for GreenThumb Goods, a company speciali
 
 ### 1. Prerequisites
 - Python 3.8 or higher
-- OpenAI API key
 
 ### 2. Installation
 1. Ensure you have Python installed on your system
