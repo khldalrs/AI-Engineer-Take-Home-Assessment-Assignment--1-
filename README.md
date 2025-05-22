@@ -60,8 +60,3 @@ The Google Analytics integration document is available in `section5_google_analy
 - `section3_prompt_engineering.py` - Prompt engineering implementation
 - `section4_summary_report.md` - Summary report and recommendations
 - `section5_google_analytics.md` - Google Analytics integration plan
-
-## Notes
-- This project uses the OpenAI API, which may incur costs depending on your usage
-- The free tier of OpenAI API should be sufficient for testing this project
-- The Streamlit interface and prompt engineering scripts will not work without a valid API key
